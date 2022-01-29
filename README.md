@@ -1,17 +1,17 @@
 ## Installation
 1. install composer
-2. setup database creditail in .env file
+2. setup database credentials in .env file
 3. run command  php artisan serve
 4. after that open url in browser your_url/setup  for example
 
 http://127.0.0.1:8000/setup
-<p>It will setup all project requirment</p>
+<p>It will setup all project requirements</p>
 
-###Test Creditail for admin
+###Test credential for admin
 <b>Username:</b>admin@gmail.com <br />
 <b>Password:</b>123456
 
-###Test Creditail for customer
+###Test credential for customer
 <b>Username:</b>customer@gmail.com <br />
 <b>Password:</b>123456
 
